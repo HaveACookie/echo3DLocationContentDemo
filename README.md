@@ -1,6 +1,15 @@
 <H1>echo3DLocationContentDemo</H1>
 
 
+<H1> Use Cases</H1>
+<p>Have you ever wanted to convienently tie local content to a location that corresponds to your echoAR models? Utilizing this project you can! This project provides the foundation required to tether UI and gameObjects to a particular location, so when you echoAR hosted model appears you can do whatever you want with it! Some of these uses include:</p>
+
+<li>Creating a pokemon go like game where new pokemon will appear at your location!</li>
+<li>Providing a convenient informational UI that accompanies your digital AR advertisement </li>
+<li>Making custom minigames for a specific location</li>
+<li>Creating a location based AR shop</li>
+<li>And many more!</li>
+
 <H1>Register</H1>
 <p>Don't have an API key? Make sure to register for FREE at echo3D</p>
 
