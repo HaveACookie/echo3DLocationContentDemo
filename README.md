@@ -17,10 +17,11 @@
 <li> Add GPS.cs and UpdateGPSText.cs scripts to the main camera and assign the text you created as the cordinates section of UpdateGPSText in the inspector.</li>
 <li> Modify cordinates.text in UpdateGPSText.cs in order to customize the UI content that displays at a particular location.</li>
 <li> Use GPS.Instance.latitutde and GPS.Instance.longitude to show other custom content that displays when your phone is at a particular location (this could be objects, media, or even minigames</li>
+<li>Create a canvas as a child to the main camer</li>
 </ul>
 
 <H1>Run</H1>
-Build this project in XCode and run it on your phone.
+<p> Build this project in XCode and run it on your phone. Ensure your target device in your Project Settings (you can find this under build settings/project settings/ player) is Iphone+IPad and have "automatically add capabilities" enabled. Please also set your Architecture to be universal.</p>
 
 <H1>Support</H1>
 <p>Feel Free to reach out at support@echo3d.co or join our support channel on Slack.</p>
